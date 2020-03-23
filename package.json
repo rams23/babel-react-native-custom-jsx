@@ -16,7 +16,8 @@
     "@babel/preset-env": "^7.9.0",
     "@wordpress/babel-plugin-import-jsx-pragma": "^2.5.0",
     "cavy": "^3.2.0",
+    "metro-react-native-babel-preset": "^0.59.0",
     "react": "^16.13.1",
-    "metro-react-native-babel-preset": "^0.59.0"
+    "react-native": "^0.61.5"
   }
 }
